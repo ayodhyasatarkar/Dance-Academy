@@ -1,0 +1,3302 @@
+@media only screen and (min-width:240px) and (max-width:479px) {
+    .mobile-block {
+        display: block
+    }
+    .mobile-none {
+        display: none
+    }
+    .mobile-block.topnev-right {
+        display: block
+    }
+    .topnev-left {
+        width: 52%
+    }
+    .topnev-left ul {
+        height: 63px
+    }
+    .topnev-left ul li {
+        position: relative;
+        z-index: 99;
+        margin: 0
+    }
+    .topnev-left ul li a {
+        font-size: 13px
+    }
+    .topnev-left ul li a svg {
+        font-size: 14px
+    }
+    .topnev-right {
+        text-align: right;
+        width: 100%;
+        position: absolute;
+        top: 32px;
+        right: 17px
+    }
+    .topnev-right ul li a {
+        font-size: 16px
+    }
+    .topnav {
+        padding-bottom: 83px;
+        position: relative;
+        margin: 0
+    }
+    .topnev-left ul li:nth-child(1) {
+        width: 100%
+    }
+    .topnev-left ul li:nth-child(2) {
+        /*text-align:right;*/
+        width: 100%
+    }
+    .navigation-wrap.scroll-on {
+        top: 0 !important
+    }
+    .navigation-wrap {
+        top: 63px !important
+    }
+    .topbanner-slider .topbanner-scrollbtn {
+        display: none
+    }
+    .navbar-brand img {
+        height: 42px
+    }
+    .start-header .nav-item:after {
+        display: none
+    }
+    .start-header .navbar-expand-md .navbar-nav .dropdown-menu {
+        position: relative;
+        width: auto;
+        padding: 0 30px 0 !important
+    }
+    .start-header .navbar-expand-md .navbar-nav .dropdown-menu.smallmiddle {
+        position: relative;
+        top: unset;
+        min-width: auto;
+        width: auto;
+        left: auto
+    }
+    .start-header .navbar-expand-md .navbar-nav .dropdown-menu.facutydropdown {
+        height: 320px;
+        overflow-y: scroll;
+        overflow-x: hidden
+    }
+    .start-header .head-dropmen .dropiteams ul li {
+        width: 100%;
+        margin: 0
+    }
+    .start-header .navbar-expand-md .navbar-nav .dropdown-menu.mypro-dropdown {
+        position: relative;
+        width: 100%;
+        top: 0
+    }
+    .start-header .head-dropmen .dropiteams ul li a img {
+        display: none
+    }
+    .start-header .head-dropmen .dropiteams ul {
+        padding: 15px 0 11px
+    }
+    .start-header .head-dropmen .dropiteams ul li p {
+        font-size: 14px;
+        margin-top: 0;
+        height: auto;
+        overflow: hidden;
+        -webkit-line-clamp: 1;
+        -webkit-box-orient: vertical;
+        margin-bottom: 5px
+    }
+    .start-header .dropdown-menu.facutydropdown .head-dropmen .dropiteams ul li {
+        padding-left: 20px
+    }
+    .start-header .head-dropmen .dropmenu-heading {
+        margin-bottom: -10px;
+        margin-top: 10px
+    }
+    .start-header a.nav-link {
+        font-size: 15px;
+        padding-bottom: 0;
+        padding-top: 6px;
+        letter-spacing: .25px
+    }
+    .subcribe-main {
+        display: block;
+        padding: 15px 0 20px
+    }
+    .subcribe-main p {
+        font-size: 24px;
+        margin: 0;
+        text-align: center;
+        margin-bottom: 10px
+    }
+    .subcribe-main input {
+        width: 90%;
+        padding: 10px 10px;
+        font-size: 18px;
+        margin: auto;
+        border: 0;
+        display: block
+    }
+    .subcribe-main .btn.btn-primary {
+        width: 170px;
+        font-size: 20px;
+        height: 45px;
+        margin-left: unset;
+        margin: auto;
+        display: block;
+        margin-top: 10px
+    }
+    footer {
+        padding: 40px 0
+    }
+    .foot-logo img {
+        margin-bottom: 40px
+    }
+    .foot-logo ul li {
+        margin: 0 0;
+        width: 49%;
+        text-align: left;
+        vertical-align: top
+    }
+    .foot-links {
+        padding-top: 30px
+    }
+    .footlink-tital {
+        margin-bottom: 8px;
+        margin-top: 20px
+    }
+    .foot-followers {
+        margin-top: 0
+    }
+    .terms-condi ul li::before {
+        margin-right: 3px
+    }
+    .terms-condi {
+        width: 100%
+    }
+    .foot-social {
+        padding: 10px 0
+    }
+    .copy-right {
+        padding: 15px 0
+    }
+    .month-eventmain .eventleft-img img {
+        display: none
+    }
+    .month-eventmain .event-tital {
+        font-size: 30px;
+        line-height: 38px;
+        margin-bottom: 3px;
+        margin-top: 5px;
+        letter-spacing: -.2px
+    }
+    .month-eventmain {
+        padding: 30px 0 40px 0;
+        background-size: cover
+    }
+    .month-eventmain .event-slider {
+        margin-top: 30px
+    }
+    .weteach-main {
+        padding: 40px 15px 20px
+    }
+    .weteach-main .weteach-tital {
+        font-size: 90px;
+        line-height: 34px;
+        width: auto
+    }
+    .weteach-main .weteach-tital p {
+        margin-bottom: 0
+    }
+    .number-counter .number-textimg {
+        display: block;
+        margin-top: 0
+    }
+    .number-counter .number-leftimg {
+        margin-left: 0;
+        width: 68%;
+        margin-top: 10px;
+        position: absolute;
+        margin: auto;
+        left: 0;
+        right: 0;
+        z-index: 0;
+        bottom: 1%
+    }
+    .number-counter .number-leftimg img {
+        width: 100%;
+        opacity: .4
+    }
+    .number-counter .number-righttext {
+        width: 100%;
+        background: #d57efe;
+        padding-bottom: 10px
+    }
+    .number-counter .number-bend {
+        display: none
+    }
+    .number-counter .number-tital {
+        text-align: center;
+        font-size: 50px;
+        line-height: 50px;
+        width: 100%;
+        margin: auto;
+        margin-left: unset;
+        margin-bottom: 15px
+    }
+    .number-counter .number-tital p {
+        font-size: 30px;
+        margin-bottom: 5px;
+        text-align: center
+    }
+    .number-counter .number-righttext ul {
+        display: block;
+        padding-top: 20px;
+        position: relative;
+        z-index: 112
+    }
+    .number-counter .number-righttext ul li p {
+        font-size: 34px
+    }
+    .number-counter .number-righttext ul li h5 {
+        font-size: 20px;
+        margin: -6px 0 6px 0
+    }
+    .testimonials-main .testi-slider {
+        padding-top: 20px
+    }
+    .testimonials-main .testimonial-tital {
+        font-size: 36px;
+        padding-top: 40px;
+        text-align: center
+    }
+    .socialmedia-main .socialmedia-tital h5 {
+        font-size: 24px;
+        margin-bottom: 0
+    }
+    .socialmedia-main .socialmedia-tital h3 {
+        font-size: 36px;
+        margin-bottom: 19px
+    }
+    .socialmedia-main .socialmedia-tital {
+        margin-bottom: 30px
+    }
+    .socialmedia-main .socialimg img {
+        width: 90%;
+        margin: auto;
+        display: block;
+        margin-bottom: 20px
+    }
+    .testimonials-main .testi-box {
+        margin: auto;
+        padding: 22px 15px 25px;
+        border-radius: 0 50px 0 50px
+    }
+    .testimonials-main .testibox-text p {
+        line-height: 23px;
+        font-size: 16px;
+        letter-spacing: .25px;
+        margin-bottom: 20px;
+        overflow: unset;
+        display: block;
+        -webkit-line-clamp: unset;
+        -webkit-box-orient: unset
+    }
+    .testimonials-main .testibox-text h3 {
+        margin-bottom: 0;
+        font-size: 20px
+    }
+    .tesimonialslider .swiper-pagination.swiper-pagination-bullets {
+        text-align: center;
+        padding-left: 0
+    }
+    .testimonials-main {
+        height: auto;
+        padding: 0 0 40px 0;
+        background-position: -200px
+    }
+    .testimonials-main .container {
+        padding: 0 15px
+    }
+    .testibox-text img {
+        margin-bottom: 15px;
+        width: 30px
+    }
+    .testimonials-main .testibox-text h4 {
+        font-size: 15px
+    }
+    .testimonials-main .swiper-button-next,
+    .testimonials-main .swiper-container-rtl .swiper-button-prev {
+        right: 0
+    }
+    .testimonials-main .swiper-button-prev,
+    .testimonials-main .swiper-container-rtl .swiper-button-next {
+        left: 0
+    }
+    .number-counter {
+        margin-top: 30px
+    }
+    .hometopslider {
+        background-size: 100% 100%;
+        height: 330px
+    }
+    .start-header.scroll-on .navbar-expand-md .navbar-nav .dropdown-menu.mypro-dropdown {
+        top: auto;
+        width: 100%;
+        position: relative
+    }
+    .career-main .dance-career {
+        padding-top: 40px;
+        height: auto;
+        min-height: 681px
+    }
+    .career-main .dance-career h2 {
+        font-size: 40px
+    }
+    .career-main .dance-career p {
+        line-height: 24px;
+        padding: 6px 10px;
+        width: 100%
+    }
+    .career-main .apply-btn {
+        margin-top: 40px
+    }
+    .career-main .apply-btn a {
+        padding: 6px 25px;
+        font-size: 22px
+    }
+    .career-main .corporate-career h2 {
+        font-size: 38px
+    }
+    .career-main .corporate-career p {
+        line-height: 24px;
+        padding: 10px 10px;
+        width: 100%
+    }
+    section.dancestyle-main .container {
+        padding: 0 15px
+    }
+    .dancestyle-main .dancestyle-left {
+        display: block;
+        width: 100%
+    }
+    .dancestyle-main .dancestyle-right {
+        display: block;
+        width: 100%
+    }
+    .dancestyle-main .dancestyle-right img {
+        width: 100%
+    }
+    .dancestyle-main .dancestyle-left h1 {
+        font-weight: 700;
+        font-size: 34px;
+        margin-bottom: 4px
+    }
+    .dancestyle-main .tabbtn {
+        font-size: 13px;
+        padding: 12px 10px
+    }
+    .dancestyle-main .dancetable-filter ul li:nth-child(1) {
+        display: block;
+        text-align: left;
+        margin-bottom: 5px
+    }
+    .dancestyle-main .dancetable-filter ul li {
+        display: inline-block;
+        margin: 0;
+        width: 32.2%
+    }
+    .dancestyle-main .dancetable-filter ul li .form-control {
+        width: 100%;
+        font-size: 14px
+    }
+    .dancestyle-main .dancefilter-droparrow {
+        display: none
+    }
+    .dancestyle-main .table-bg {
+        padding: 10px 10px 10px
+    }
+    .dancestyle-main .table {
+        min-width: 940px !important;
+        max-width: 1098px
+    }
+    .dancestyle-main .tabledesign {
+        width: 100%;
+        overflow: hidden;
+        display: block;
+        overflow-x: scroll
+    }
+    .dancestyle-main .dancetable-filter {
+        margin: 30px 0 25px
+    }
+    .dancestyle-main .dancestyle-table ul.nav {
+        margin-bottom: 35px
+    }
+    .dancestyle-table {
+        padding-bottom: 30px
+    }
+    .dancestyle-main .table-addcart a {
+        font-weight: 600;
+        font-size: 16px
+    }
+    .dancestyle-main .table-addcart {
+        padding-bottom: 35px !important
+    }
+    .dancestyle-gallery .gallery-left {
+        display: block;
+        width: 100%;
+        padding: 0 !important;
+        margin-bottom: 15px
+    }
+    .dancestyle-gallery .gallery-right {
+        display: block;
+        width: 100%;
+        padding: 0 !important
+    }
+    .dancestyle-gallery .stylegallery-text h5 {
+        margin-bottom: 1px;
+        font-size: 18px
+    }
+    .dancestyle-gallery .stylegallery-text h3 {
+        font-weight: 700;
+        font-size: 26px
+    }
+    .dancestyle-gallery .stylegallery-text.formtop img {
+        width: 60px
+    }
+    .dancestyle-gallery .stylegallery-text.formtop {
+        top: 22%
+    }
+    section.dancestyle-gallery {
+        padding: 35px 15px
+    }
+    .dancecourse-main>.container {
+        padding: 0 15px
+    }
+    .dancecourse-text h1 {
+        font-size: 36px;
+        font-weight: 700;
+        margin-bottom: 15px
+    }
+    .dancecourse-main {
+        padding: 35px 0
+    }
+    .dancecourse-text {
+        padding-bottom: 10px
+    }
+    .dancecourse-main .tabbtn {
+        font-size: 13px;
+        padding: 12px 10px
+    }
+    .dancecourse-main .dancetable-filter ul li:nth-child(1) {
+        display: block;
+        text-align: left;
+        margin-bottom: 5px
+    }
+    .dancecourse-main .dancetable-filter ul li {
+        display: inline-block;
+        margin: 0;
+        width: 32.2%
+    }
+    .dancecourse-main .dancetable-filter ul li .form-control {
+        width: 100%;
+        font-size: 14px
+    }
+    .dancecourse-main .dancefilter-droparrow {
+        display: none
+    }
+    .dancecourse-main .table-bg {
+        padding: 10px 10px 10px
+    }
+    .dancecourse-main .dancestyle-table>.container {
+        padding: 0
+    }
+    .dancecourse-main .dancetable-filter {
+        margin: 30px 0 25px
+    }
+    .dancecourse-main .dancestyle-table ul.nav {
+        margin-bottom: 35px
+    }
+    .dancecourse-main .table {
+        min-width: 940px !important;
+        max-width: 1098px
+    }
+    .dancecourse-main .tabledesign {
+        width: 100%;
+        overflow: hidden;
+        display: block;
+        overflow-x: scroll
+    }
+    .dancecourse-main .table-addcart a {
+        font-weight: 600;
+        font-size: 16px
+    }
+    .dancecourse-main .table-addcart {
+        padding-bottom: 35px !important
+    }
+    .artisticdire-main .container {
+        padding: 0 15px
+    }
+    .artisticdire-main .artist-left {
+        display: block;
+        width: 100%
+    }
+    .artisticdire-main .artist-left h1 {
+        font-size: 46px;
+        width: 100%;
+        margin-bottom: 10px
+    }
+    .artisticdire-main .artist-right {
+        display: block;
+        width: 100%
+    }
+    .artisticdire-main .artist-details {
+        padding: 25px 0
+    }
+    .artisticdire-main .artist-details p {
+        margin-bottom: 14px;
+        line-height: 26px;
+        font-size: 16px
+    }
+    .artisticdire-main {
+        padding: 40px 0 35px
+    }
+    .artisticdire-main .artist-left h5 {
+        font-size: 22px;
+        font-weight: 500
+    }
+    .artisticdire-main .artist-right img {
+        width: 100%
+    }
+    .samefaculty-main .container {
+        padding: 0 15px
+    }
+    .samefaculty-main .artist-name {
+        font-size: 30px;
+        padding-top: 0;
+        margin-left: 0
+    }
+    .samefaculty-main .artist-deta {
+        padding: 5px 0 30px
+    }
+    .samefaculty-main .artist-img img {
+        width: 100%
+    }
+    .samefaculty-main .samedaculty-tital {
+        font-size: 34px;
+        margin-bottom: 18px
+    }
+    .samefaculty-main {
+        padding: 25px 0 35px
+    }
+    .samefaculty-main.behind-scene .artist-post {
+        font-size: 22px;
+        line-height: 30px;
+        padding-top: 10px;
+        margin-left: 0;
+        padding-bottom: 10px
+    }
+    .samefaculty-main.behind-scene {
+        padding-bottom: 30px
+    }
+    .pdcp-main .container {
+        padding: 0 15px
+    }
+    .tdxonline-main .container {
+        padding: 0 15px
+    }
+    .tdxonline-main {
+        padding: 45px 0
+    }
+    .tdxonline-main .tdxonline-tital h1 {
+        font-size: 32px;
+        line-height: 40px;
+        margin-bottom: 12px
+    }
+    .tdxonline-main .mycourses-filter ul li:nth-child(1) {
+        display: block
+    }
+    .tdxonline-main .filterby-tital {
+        background: 0 0;
+        font-size: 26px;
+        padding: 8px 0
+    }
+    .tdxonline-main .mycourses-filter ul {
+        text-align: left
+    }
+    .tdxonline-main .filter-droparrow {
+        height: 70%;
+        width: 22px;
+        padding-top: 7px;
+        font-size: 16px;
+        top: 7px
+    }
+    .tdxonline-main .filter-drop .form-control {
+        font-size: 16px
+    }
+    .tdxonline-main .filter-drop {
+        width: auto
+    }
+    .tdxonline-main .mycourses-filter ul li {
+        margin: 0 0;
+        width: 49%
+    }
+    .tdxonline-main .session-topvideo img {
+        width: 100%
+    }
+    .tdxonline-main .online-details ul {
+        position: relative;
+        padding: 10px 0
+    }
+    .tdxonline-main .online-details ul li {
+        width: 49%
+    }
+    .tdxonline-main .online-pricebtn a {
+        padding: 4px 3px;
+        width: 148px;
+        margin: auto
+    }
+    .tdxonline-main .online-pricebtn p {
+        font-size: 20px;
+        margin-bottom: 6px;
+        margin-top: 14px
+    }
+    .tdxonline-main .online-details {
+        padding-top: 15px
+    }
+    .tdxonline-main .online-details p {
+        -webkit-line-clamp: 5;
+        max-width: 100%;
+        line-height: 16px
+    }
+    .tdxonline-main .online-pricebtn {
+        position: relative
+    }
+    .tdxonline-main .previewbtn {
+        top: 34%
+    }
+    .tdxonline-main .previewbtn span {
+        font-size: 16px
+    }
+    .tdxonline-main .mycorces-pagination ul {
+        margin: 0 15px
+    }
+    .tdxonline-main .mycorces-pagination ul li {
+        margin: 0 10px
+    }
+    .start-header .dropdown-menu::before {
+        display: none
+    }
+    .pdcp-main .pdcp-toptext {
+        padding-left: 0
+    }
+    .pdcp-main .pdcp-toptext h2 {
+        padding: 44px 0 20px
+    }
+    .pdcp-main .pdcp-toptext p {
+        text-align: justify
+    }
+    .pdcp-main .topgirl-pdcp {
+        padding-bottom: 30px
+    }
+    .pdcp-main .vision-phylosophy h3 {
+        padding: 30px 0 10px 0
+    }
+    .pdcp-main .vision-phylosophy {
+        padding: 5px 0 40px 0
+    }
+    .pdcp-main .pdcp-gallery h3 {
+        padding: 8px 0 20px 0
+    }
+    .pdcp-main .pdcp-gallery .col-md-3 {
+        padding: 0 15px !important
+    }
+    .pdcp-main img.pdcp-topgirlimg {
+        padding-top: 20px
+    }
+    .rad-main .container {
+        padding: 0 15px
+    }
+    .rad-main {
+        padding: 30px 0 60px 0
+    }
+    .rad-main .rad-toptext h2 {
+        margin-bottom: 20px
+    }
+    .rad-main .rad-toptext p {
+        margin-bottom: 20px
+    }
+    .rad-main .rad-toptext a.rad-topbtn {
+        font-size: 20px;
+        top: 14px
+    }
+    .rad-main .rad-topimg {
+        width: 90%;
+        margin: auto;
+        display: block
+    }
+    .rad-main .rad-gallery h2 {
+        padding: 20px 0 25px 0;
+        text-align: center
+    }
+    .rad-main .rad-gallery .col-md-3 {
+        padding: 0 15px !important
+    }
+    .dance-educa-main .container {
+        padding: 0 15px
+    }
+    .dance-educa-main .dance-educa-top {
+        padding: 35px 0 10px
+    }
+    .dance-educa-main .dance-educa-top h1 {
+        margin-bottom: 20px;
+        font-size: 34px;
+        line-height: initial
+    }
+    .dance-educa-main .dance-educa-top h3 {
+        margin: 25px 0 35px
+    }
+    .dance-educa-main .dance-educa-top p {
+        padding: 0;
+        margin-bottom: 24px
+    }
+    .dance-educa-main .education-video svg {
+        width: 60px !important;
+        height: 60px;
+        padding: 20px;
+        bottom: 30px
+    }
+    .dance-educa-main .education-video img {
+        width: 100%;
+        padding-bottom: 30px
+    }
+    .dance-educa-main .rad-name img {
+        width: 100%;
+        margin-bottom: 20px
+    }
+    .dance-educa-main .rad-name {
+        margin: 30px -10px 25px
+    }
+    .dance-educa-main .dance-leadership h2 {
+        font-size: 40px;
+        margin-bottom: 30px
+    }
+    .dance-educa-main .dance-leadership h2 span {
+        font-size: 26px
+    }
+    .dance-educa-main .dance-leadership ul li span {
+        padding-left: 30px;
+        font-size: 15px;
+        padding-top: 5px
+    }
+    .dance-educa-main .dance-leadership ul li {
+        padding-left: 28px;
+        color: #dbb39a;
+        font-size: 22px
+    }
+    .dance-educa-main .topdance-comet {
+        width: 90%;
+        padding: 40px 15px;
+        margin-bottom: 70px
+    }
+    .dance-educa-main .topdance-comet span {
+        left: -40px;
+        top: -40px;
+        padding: 24px 0
+    }
+    .dance-educa-main .topdance-comet span img {
+        width: 50%;
+        margin: auto;
+        display: block
+    }
+    .dance-educa-main .topdance-comet h3 {
+        font-size: 28px;
+        text-align: center
+    }
+    .dance-educa-main .topdance-comet h2 {
+        font-size: 32px;
+        text-align: right
+    }
+    .dance-educa-main .topdance-comet span:last-child {
+        right: -50px;
+        top: unset;
+        bottom: -40px
+    }
+    .dance-educa-main .prodance h2 {
+        font-size: 50px;
+        margin-bottom: 30px;
+        text-transform: capitalize
+    }
+    .dance-educa-main .prodance h2 span {
+        font-size: 26px;
+        text-transform: uppercase
+    }
+    .dance-educa-main .prodance p {
+        line-height: 26px;
+        margin-bottom: 18px
+    }
+    .dance-educa-main .profe-dance {
+        padding: 20px 0 90px;
+        background-size: 100%
+    }
+    .upcoming-workmain .container {
+        padding: 0 15px
+    }
+    .upcoming-workmain .forwork-with {
+        padding: 0 0;
+        margin-bottom: 60px
+    }
+    .pastwork-tital {
+        font-size: 30px
+    }
+    .sele-city select.form-control {
+        width: 100%;
+        margin-top: 15px
+    }
+    .upcoming-workmain .pastwork-boxmain {
+        padding: 18px 15px 20px;
+        width: 100%;
+        margin-top: 40px;
+        margin-bottom: 40px
+    }
+    .pastwork-leftimg {
+        display: block;
+        width: 100%;
+        margin-bottom: 20px
+    }
+    .pastwork-details {
+        display: block;
+        width: 100%
+    }
+    .pastwork-leftimg img {
+        width: 100%;
+        margin-top: 0
+    }
+    .upcoming-workmain .pastwork-details h3 {
+        font-size: 20px;
+        margin-bottom: 20px
+    }
+    .pastwork-datetime .date {
+        float: unset;
+        width: 100%;
+        padding-top: 0;
+        padding-bottom: 4px
+    }
+    .pastwork-datetime .time {
+        padding-bottom: 20px
+    }
+    .pastwork-datetime p {
+        letter-spacing: 0
+    }
+    .upcoming-workmain .upworkshop-btn a {
+        padding: 7px 15px;
+        font-size: 20px;
+        width: 155px
+    }
+    .upcoming-workmain {
+        padding: 50px 0 20px
+    }
+    .pastworkshop-main .container {
+        padding: 0 15px
+    }
+    .pastworkshop-main .row.forwork-with {
+        padding: 0 0;
+        margin-bottom: 50px
+    }
+    .pastwork-boxmain {
+        width: 100%;
+        padding: 18px 15px 18px;
+        margin-top: 40px;
+        margin-bottom: 40px
+    }
+    .pastworkshop-main {
+        padding: 40px 0 50px
+    }
+    .mediaevent-main {
+        background-position: top left;
+        padding: 30px 0 30px
+    }
+    .mediaevent-main .container {
+        padding: 0 15px
+    }
+    .topevent-text h1 {
+        font-size: 36px;
+        margin-bottom: 20px
+    }
+    .media-rightdetails {
+        padding-left: 0
+    }
+    .media-rightdetails .rightdetail-tital {
+        font-size: 26px;
+        margin-bottom: 14px;
+        margin-top: 10px
+    }
+    .media-rightdetails p {
+        margin-bottom: 10px
+    }
+    .filmography-main .container {
+        padding: 0 15px
+    }
+    .filmography-main .filmography-detail {
+        padding-top: 0
+    }
+    .filmography-main .filmography-detail h1 {
+        font-size: 36px;
+        margin-bottom: 15px
+    }
+    section.filmography-main .col-md-5 img {
+        display: none
+    }
+    .filmography-main .filmography-years {
+        margin-top: 0
+    }
+    .filmography-main .filmography-years ul li {
+        padding-left: 0
+    }
+    .filmography-main .filmography-years ul li .years-box img {
+        width: 100%
+    }
+    .filmography-main .filmography-years ul li::before {
+        display: none
+    }
+    .filmography-main .filmography-years {
+        margin-top: 50px
+    }
+    .filmography-main .filmography-years ul li .years-box h4::before {
+        left: 0
+    }
+    .filmography-main .filmography-years ul li .years-box h4 span {
+        margin-left: 20px
+    }
+    .filmography-main {
+        padding: 30px 0 60px
+    }
+    .press-main .container {
+        padding: 0 15px
+    }
+    .press-detail {
+        padding-top: 15px
+    }
+    .press-detail h1 {
+        font-size: 36px;
+        margin-bottom: 20px
+    }
+    .press-detail p {
+        line-height: 23px
+    }
+    .press-printsec {
+        padding: 40px 0 0 0
+    }
+    img.pres-fwith {
+        width: 60%;
+        margin-right: auto
+    }
+    .press-topimg {
+        background-size: cover;
+        margin-bottom: -230px
+    }
+    .press-digitalsec {
+        background-color: #110b29;
+        margin-top: 0;
+        padding-top: 70px
+    }
+    .events-main .container {
+        padding: 0 15px
+    }
+    .eventstop-info::after {
+        display: none
+    }
+    .eventstop-text {
+        width: 100%;
+        padding: 15px 15px 5px;
+        margin: 0 0
+    }
+    .events-topshops {
+        padding: 45px 0 70px;
+        background-size: cover
+    }
+    .eventstop-text h2 {
+        font-size: 32px;
+        margin-bottom: 10px
+    }
+    .bookbox {
+        padding: 15px;
+        background: linear-gradient(180deg, #fff 24%, #1f2229 24%);
+        margin-bottom: 40px
+    }
+    .event-bookimg img {
+        margin-bottom: 24px
+    }
+    .eventbook-btn {
+        position: relative;
+        padding-top: 38px
+    }
+    .eventbook-btn a {
+        font-size: 20px;
+        width: 70%;
+        margin: auto
+    }
+    .eventbook-detail h4 {
+        -webkit-line-clamp: 2;
+        margin-bottom: 15px
+    }
+    .eventbook-detail p {
+        line-height: initial;
+        font-size: 16px
+    }
+    .theatre-main {
+        padding: 40px 0 50px;
+        background-size: cover
+    }
+    .theatre-main .container {
+        padding: 0 15px
+    }
+    .theatre-main h1 {
+        font-size: 34px;
+        margin-bottom: 15px
+    }
+    .theatre-main h3 {
+        margin: 40px 0 15px
+    }
+    .theatre-main ul li {
+        margin-bottom: 20px;
+        font-size: 16px;
+        line-height: 24px;
+        padding-left: 30px
+    }
+    .contact-main .container {
+        padding: 0 15px
+    }
+    .contact-main .contact-tital {
+        padding: 30px 0 0;
+        font-size: 36px;
+        max-width: 260px;
+        margin: auto
+    }
+    .contact-form {
+        margin-top: 50px;
+        height: auto
+    }
+    .contactleft-form {
+        padding: 0 15px
+    }
+    .contact-address {
+        padding: 20px 15px;
+        width: 90%;
+        margin: auto;
+        margin-top: 40px
+    }
+    .contact-main {
+        background-size: cover;
+        padding-bottom: 30px
+    }
+    .contact-folloimg {
+        width: auto;
+        display: flex;
+        justify-content: space-evenly
+    }
+    .contact-folloimg a img {
+        padding-left: 0;
+        margin: 40px auto 20px
+    }
+    .contact-address .address-box p {
+        margin-bottom: 5px
+    }
+    .aboutus-main .container {
+        padding: 0 15px
+    }
+    .aboutus-main .aboutus-left.about-2content {
+        padding-left: 0
+    }
+    .aboutus-main .aboutus-left {
+        display: block;
+        width: 100%;
+        padding-right: 0
+    }
+    .aboutus-main .aboutus-right {
+        display: block;
+        width: 100%
+    }
+    .aboutus-main .aboutus-left .abouttital {
+        font-size: 38px;
+        margin-bottom: 15px;
+        line-height: initial;
+        margin-top: 30px
+    }
+    .aboutus-main .aboutus-left p {
+        margin-bottom: 16px
+    }
+    .aboutus-main {
+        padding: 1px 0 30px 0;
+        background-size: cover
+    }
+    .aboutus-main .aboutus-right.about-1img img {
+        left: 0;
+        width: 100%
+    }
+    .aboutus-main .aboutus-right.about-2img img {
+        width: 100%;
+        left: 0;
+        margin-top: 60px
+    }
+    .aboutus-main .aboutus-detail.martop {
+        margin-top: 10px
+    }
+    .aboutus-main .aboutus-right.about-3img img {
+        left: 0;
+        top: 0;
+        width: 100%
+    }
+    .login-main .container {
+        padding: 0 15px
+    }
+    .login-box {
+        width: 90%;
+        margin-right: auto
+    }
+    .login-main {
+        background-position: right;
+        padding-top: 40px
+    }
+    .myprofile-main .container {
+        padding: 0 15px
+    }
+    .profile-form {
+        width: 90%
+    }
+    .leftupload {
+        width: 48%
+    }
+    .myprofile-main {
+        background-position: -270px top;
+        padding: 40px 0
+    }
+    .profile-form .form-control option {
+        background: #fff;
+        color: #000
+    }
+    .password-main .container {
+        padding: 0 15px
+    }
+    .password-box label {
+        padding-top: 6px;
+        font-size: 14px
+    }
+    .password-box {
+        width: 100%
+    }
+    .mycourses-main .container {
+        padding: 0 15px
+    }
+    .mycourses-main .mycourses-filter ul {
+        text-align: left
+    }
+    .mycourses-main .mycourses-filter ul li:nth-child(1) {
+        display: block
+    }
+    .mycourses-main .filterby-tital {
+        padding: 8px 0;
+        background: 0 0
+    }
+    .mycourses-main .mycourses-filter ul li {
+        margin: 0;
+        width: 49%
+    }
+    .mycourses-main .filter-drop {
+        width: 100%
+    }
+    .mycourses-main .filter-droparrow {
+        height: 60%;
+        width: 22px;
+        padding-top: 1px;
+        font-size: 18px;
+        top: 11px
+    }
+    .mycourses-main .filter-drop .form-control {
+        font-size: 18px
+    }
+    .mycourses-main .filter-drop option {
+        background: #fff;
+        color: #000
+    }
+    .mycourses-filter {
+        margin-bottom: 30px
+    }
+    .mycourses-main .session-topvideo img {
+        width: 100%
+    }
+    .mycourses-main .session-topdetails {
+        width: 100%
+    }
+    .mycourses-main .session-topdetails h6 {
+        margin-bottom: 0;
+        margin-top: 10px
+    }
+    .mycourses-main .session-topdetails hr {
+        margin: 20px 0
+    }
+    .mycourses-main .session-topdetails ul li {
+        width: 100%
+    }
+    .mycourses-main .session-topdetails ul {
+        margin-bottom: 20px
+    }
+    .mycourses-main .mycorces-pagination ul {
+        margin: 0 10px
+    }
+    .mycourses-main .mycorces-pagination ul li {
+        margin: 0 10px
+    }
+    .mycourses-main {
+        padding: 40px 0
+    }
+    .mywallet-main .container {
+        padding: 0 15px
+    }
+    .mywallet-main .mywallet-topsec {
+        width: 100%;
+        margin-bottom: 50px
+    }
+    .mywallet-main .mywallet-tital {
+        margin-bottom: 0
+    }
+    .mywallet-main .avilable-bal {
+        text-align: left;
+        margin-bottom: 25px
+    }
+    .mywallet-main .wallet-item a {
+        margin-bottom: 15px
+    }
+    .mywallet-main .recent-activity {
+        width: 100%;
+        margin-bottom: 25px
+    }
+    .idcard-main .container {
+        padding: 0 15px
+    }
+    .logo-barcode {
+        bottom: 6px
+    }
+    .logo-barcode img:first-child {
+        width: 170px
+    }
+    .id-box {
+        width: 330px;
+        padding: 10px;
+        background-size: 100%;
+        min-height: 496px
+    }
+    .id-box>img {
+        width: 90px
+    }
+    .idcard-main {
+        min-height: auto;
+        padding: 40px 0
+    }
+    .mycart-main .container {
+        padding: 0 15px
+    }
+    .mycart-main .tabledesign {
+        width: 100%;
+        overflow: hidden;
+        display: block;
+        overflow-x: scroll
+    }
+    .mycart-main .table-bg {
+        padding: 20px 10px 10px
+    }
+    .mycart-topbanner h1 {
+        padding-top: 65px;
+        text-align: center;
+        font-size: 53px
+    }
+    .signup-main .container {
+        padding: 0 15px
+    }
+    .signup-main {
+        padding-top: 40px;
+        background-position: right top
+    }
+    .login-box option {
+        background: #fff;
+        color: #000
+    }
+    .viewsession-main .container {
+        padding: 0 15px
+    }
+    .viewsession-main .session-topvideo img {
+        width: 100%
+    }
+    .viewsession-main .session-topvideo svg {
+        width: 55px !important;
+        height: 55px;
+        padding: 18px
+    }
+    .viewsession-main .session-topdetails {
+        width: 100%
+    }
+    .viewsession-main .session-topdetails h6 {
+        margin-top: 15px
+    }
+    .viewsession-main .session-topdetails ul li {
+        width: 100%
+    }
+    .viewsession-main .session-topdetails ul {
+        margin-bottom: 20px
+    }
+    .viewsession-main .session-box a img {
+        width: 100%
+    }
+    .viewsession-main .session-box h5 {
+        margin-top: 10px
+    }
+    .viewsession-main .session-box {
+        margin-bottom: 30px
+    }
+    .checkout-main .container {
+        padding: 0 15px !important
+    }
+    .checkout-main .tabledesign {
+        width: 100%;
+        overflow: hidden;
+        display: block;
+        overflow-x: scroll
+    }
+    .check-topban h1 {
+        font-size: 48px;
+        padding-top: 70px;
+        text-align: center
+    }
+    .checkout-table {
+        padding: 50px 0 50px
+    }
+    .checkout-main .table-bg {
+        padding: 20px 10px 10px
+    }
+    .checkout-main .checkout-cartfees h5 {
+        width: 60%
+    }
+    .dance-educa-main .program-offer {
+        font-size: 30px;
+        text-align: center;
+        line-height: 52px
+    }
+    .dance-educa-main .dance-educa-top h3 {
+        font-size: 34px
+    }
+    .dance-educa-main .dance-leadership {
+        background-position: -1086px center
+    }
+    .prodance img {
+        width: 100%
+    }
+    .dance-educa-main .annu-concept h3 {
+        font-size: 40px
+    }
+    .dance-educa-main .annu-concept {
+        padding: 70px 0 20px
+    }
+    .dance-educa-main .die-shopimg h2 {
+        font-size: 38px;
+        margin-top: 30px
+    }
+    .dance-educa-main .die-shopimg h2 span {
+        font-size: 24px
+    }
+    .dance-educa-main .die-shopimg img {
+        width: 100%;
+        margin-bottom: 60px
+    }
+    .dance-educa-main .die-workshop-btn {
+        margin-top: 40px
+    }
+    .event-compny img {
+        margin-bottom: 25px;
+        width: 100%
+    }
+    .event-state h6 {
+        margin-bottom: 20px
+    }
+    .contact-address .address-box h3 {
+        font-size: 22px
+    }
+    .press-socialsec {
+        padding: 30px 0 70px
+    }
+    .press-socialsec h3 {
+        font-size: 28px;
+        width: 340px
+    }
+    .topbannerslider.mobileview {
+        display: block
+    }
+    .topbannerslider.desktopview {
+        display: none
+    }
+    .aboutus-detail.part2 .desktopview {
+        display: none
+    }
+    .aboutus-detail.part2 .mobileview {
+        display: block
+    }
+}
+
+@media only screen and (min-width:480px) and (max-width:767px) {
+    .mobile-block {
+        display: block
+    }
+    .mobile-none {
+        display: none
+    }
+    .mobile-block.topnev-right {
+        display: block
+    }
+    .topnev-left {
+        width: 100%
+    }
+    .topnev-left ul {
+        height: 63px
+    }
+    .topnev-left ul li {
+        position: relative;
+        z-index: 99;
+        margin: 0
+    }
+    .topnev-left ul li a {
+        font-size: 13px
+    }
+    .topnev-left ul li a svg {
+        font-size: 14px
+    }
+    .topnev-right {
+        text-align: right;
+        width: 100%;
+        position: absolute;
+        top: 32px;
+        right: 17px
+    }
+    .topnev-right ul li a {
+        font-size: 16px
+    }
+    .topnav {
+        padding-bottom: 83px;
+        position: relative;
+        margin: 0
+    }
+    .topnev-left ul li:nth-child(1) {
+        width: 40%
+    }
+    .topnev-left ul li:nth-child(2) {
+        text-align: right;
+        width: 58%
+    }
+    .navigation-wrap.scroll-on {
+        top: 0 !important
+    }
+    .navigation-wrap {
+        top: 63px !important
+    }
+    .topbanner-slider .topbanner-scrollbtn {
+        display: none
+    }
+    .navbar-brand img {
+        height: 42px
+    }
+    .start-header .nav-item:after {
+        display: none
+    }
+    .start-header .navbar-expand-md .navbar-nav .dropdown-menu {
+        position: relative;
+        width: auto;
+        padding: 0 30px 0 !important
+    }
+    .start-header .navbar-expand-md .navbar-nav .dropdown-menu.facutydropdown {
+        height: 320px;
+        overflow-y: scroll;
+        overflow-x: hidden
+    }
+    .start-header .head-dropmen .dropiteams ul li {
+        width: 100%;
+        margin: 0
+    }
+    .start-header .navbar-expand-md .navbar-nav .dropdown-menu.mypro-dropdown {
+        position: relative;
+        width: 100%;
+        top: 0
+    }
+    .start-header .head-dropmen .dropiteams ul li a img {
+        display: none
+    }
+    .start-header .head-dropmen .dropiteams ul {
+        padding: 15px 0 11px
+    }
+    .start-header .head-dropmen .dropiteams ul li p {
+        font-size: 14px;
+        margin-top: 0;
+        height: auto;
+        overflow: hidden;
+        -webkit-line-clamp: 1;
+        -webkit-box-orient: vertical;
+        margin-bottom: 5px
+    }
+    .start-header .dropdown-menu.facutydropdown .head-dropmen .dropiteams ul li {
+        padding-left: 20px
+    }
+    .start-header .head-dropmen .dropmenu-heading {
+        margin-bottom: -10px;
+        margin-top: 10px
+    }
+    .start-header a.nav-link {
+        font-size: 15px;
+        padding-bottom: 0;
+        padding-top: 6px;
+        letter-spacing: .25px
+    }
+    .subcribe-main {
+        display: block;
+        padding: 15px 0 20px
+    }
+    .subcribe-main p {
+        font-size: 24px;
+        margin: 0;
+        text-align: center;
+        margin-bottom: 10px
+    }
+    .subcribe-main input {
+        width: 90%;
+        padding: 10px 10px;
+        font-size: 18px;
+        margin: auto;
+        border: 0;
+        display: block
+    }
+    .subcribe-main .btn.btn-primary {
+        width: 170px;
+        font-size: 20px;
+        height: 45px;
+        margin-left: unset;
+        margin: auto;
+        display: block;
+        margin-top: 10px
+    }
+    footer {
+        padding: 40px 0
+    }
+    .foot-logo img {
+        margin-bottom: 40px
+    }
+    .foot-logo ul li {
+        margin: 0 0;
+        width: 49%;
+        text-align: left;
+        vertical-align: top
+    }
+    .foot-links {
+        padding-top: 30px
+    }
+    .footlink-tital {
+        margin-bottom: 8px;
+        margin-top: 20px
+    }
+    .foot-followers {
+        margin-top: 0
+    }
+    .terms-condi ul li::before {
+        margin-right: 3px
+    }
+    .terms-condi {
+        width: 100%
+    }
+    .foot-social {
+        padding: 10px 0
+    }
+    .copy-right {
+        padding: 15px 0
+    }
+    .month-eventmain .eventleft-img img {
+        display: none
+    }
+    .month-eventmain .event-tital {
+        font-size: 30px;
+        line-height: 38px;
+        margin-bottom: 3px;
+        margin-top: 5px;
+        letter-spacing: -.2px
+    }
+    .month-eventmain {
+        padding: 30px 0 40px 0;
+        background-size: cover
+    }
+    .month-eventmain .event-slider {
+        margin-top: 30px
+    }
+    .weteach-main {
+        padding: 40px 15px 20px
+    }
+    .weteach-main .weteach-tital {
+        font-size: 90px;
+        line-height: 34px;
+        width: auto
+    }
+    .weteach-main .weteach-tital p {
+        margin-bottom: 0
+    }
+    .number-counter .number-textimg {
+        display: block;
+        margin-top: 0
+    }
+    .number-counter .number-leftimg {
+        margin-left: 0;
+        width: 68%;
+        margin-top: 10px;
+        position: absolute;
+        margin: auto;
+        left: 0;
+        right: 0;
+        z-index: 0;
+        bottom: 1%
+    }
+    .number-counter .number-leftimg img {
+        width: 100%;
+        opacity: .4
+    }
+    .number-counter .number-righttext {
+        width: 100%;
+        background: #d57efe;
+        padding-bottom: 10px
+    }
+    .number-counter .number-bend {
+        display: none
+    }
+    .number-counter .number-tital {
+        text-align: center;
+        font-size: 50px;
+        line-height: 50px;
+        width: 100%;
+        margin: auto;
+        margin-left: unset;
+        margin-bottom: 15px
+    }
+    .number-counter .number-tital p {
+        font-size: 30px;
+        margin-bottom: 5px;
+        text-align: center
+    }
+    .number-counter .number-righttext ul {
+        display: block;
+        padding-top: 20px;
+        position: relative;
+        z-index: 112
+    }
+    .number-counter .number-righttext ul li p {
+        font-size: 34px
+    }
+    .number-counter .number-righttext ul li h5 {
+        font-size: 20px;
+        margin: -6px 0 6px 0
+    }
+    .testimonials-main .testi-slider {
+        padding-top: 20px
+    }
+    .testimonials-main .container {
+        padding: 0 15px
+    }
+    .testibox-text img {
+        margin-bottom: 15px;
+        width: 30px
+    }
+    .testimonials-main .testibox-text h4 {
+        font-size: 15px
+    }
+    .testimonials-main .swiper-button-next,
+    .testimonials-main .swiper-container-rtl .swiper-button-prev {
+        right: 0
+    }
+    .testimonials-main .swiper-button-prev,
+    .testimonials-main .swiper-container-rtl .swiper-button-next {
+        left: 0
+    }
+    .testimonials-main .testimonial-tital {
+        font-size: 36px;
+        padding-top: 40px;
+        text-align: center
+    }
+    .socialmedia-main .socialmedia-tital h5 {
+        font-size: 24px;
+        margin-bottom: 0
+    }
+    .socialmedia-main .socialmedia-tital h3 {
+        font-size: 36px;
+        margin-bottom: 19px
+    }
+    .socialmedia-main .socialmedia-tital {
+        margin-bottom: 30px
+    }
+    .socialmedia-main .socialimg img {
+        width: 90%;
+        margin: auto;
+        display: block;
+        margin-bottom: 20px
+    }
+    .testimonials-main .testi-box {
+        margin: auto;
+        padding: 22px 15px 25px;
+        border-radius: 0 50px 0 50px
+    }
+    .testimonials-main .testibox-text p {
+        line-height: 23px;
+        font-size: 16px;
+        letter-spacing: .25px;
+        margin-bottom: 20px;
+        overflow: unset;
+        display: block;
+        -webkit-line-clamp: unset;
+        -webkit-box-orient: unset
+    }
+    .testimonials-main .testibox-text h3 {
+        margin-bottom: 0;
+        font-size: 20px
+    }
+    .tesimonialslider .swiper-pagination.swiper-pagination-bullets {
+        text-align: center;
+        padding-left: 0
+    }
+    .testimonials-main {
+        height: auto;
+        padding: 0 0 40px 0;
+        background-position: -200px
+    }
+    .number-counter {
+        margin-top: 30px
+    }
+    .hometopslider {
+        background-size: 100% 100%;
+        height: 330px
+    }
+    .start-header.scroll-on .navbar-expand-md .navbar-nav .dropdown-menu.mypro-dropdown {
+        top: auto;
+        width: 100%;
+        position: relative
+    }
+    .career-main .dance-career {
+        padding-top: 40px;
+        height: auto;
+        min-height: 681px
+    }
+    .career-main .dance-career h2 {
+        font-size: 40px
+    }
+    .career-main .dance-career p {
+        line-height: 24px;
+        padding: 6px 10px;
+        width: 100%
+    }
+    .career-main .apply-btn {
+        margin-top: 40px
+    }
+    .career-main .apply-btn a {
+        padding: 6px 25px;
+        font-size: 22px
+    }
+    .career-main .corporate-career h2 {
+        font-size: 38px
+    }
+    .career-main .corporate-career p {
+        line-height: 24px;
+        padding: 10px 10px;
+        width: 100%
+    }
+    section.dancestyle-main .container {
+        padding: 0 15px
+    }
+    .dancestyle-main .dancestyle-left {
+        display: block;
+        width: 100%
+    }
+    .dancestyle-main .dancestyle-right {
+        display: block;
+        width: 100%
+    }
+    .dancestyle-main .dancestyle-right img {
+        width: 100%
+    }
+    .dancestyle-main .dancestyle-left h1 {
+        font-weight: 700;
+        font-size: 34px;
+        margin-bottom: 4px
+    }
+    .dancestyle-main .tabbtn {
+        font-size: 13px;
+        padding: 12px 10px
+    }
+    .dancestyle-main .dancetable-filter ul li:nth-child(1) {
+        display: block;
+        text-align: left;
+        margin-bottom: 5px
+    }
+    .dancestyle-main .dancetable-filter ul li {
+        display: inline-block;
+        margin: 0;
+        width: 32.2%
+    }
+    .dancestyle-main .dancetable-filter ul li .form-control {
+        width: 100%;
+        font-size: 14px
+    }
+    .dancestyle-main .dancefilter-droparrow {
+        display: none
+    }
+    .dancestyle-main .table-bg {
+        padding: 10px 10px 10px
+    }
+    .dancestyle-main .table {
+        min-width: 940px !important;
+        max-width: 1098px
+    }
+    .dancestyle-main .tabledesign {
+        width: 100%;
+        overflow: hidden;
+        display: block;
+        overflow-x: scroll
+    }
+    .dancestyle-main .dancetable-filter {
+        margin: 30px 0 25px
+    }
+    .dancestyle-main .dancestyle-table ul.nav {
+        margin-bottom: 35px
+    }
+    .dancestyle-table {
+        padding-bottom: 30px
+    }
+    .dancestyle-main .table-addcart a {
+        font-weight: 600;
+        font-size: 16px
+    }
+    .dancestyle-main .table-addcart {
+        padding-bottom: 35px !important
+    }
+    .dancestyle-gallery .gallery-left {
+        display: block;
+        width: 100%;
+        padding: 0 !important;
+        margin-bottom: 15px
+    }
+    .dancestyle-gallery .gallery-right {
+        display: block;
+        width: 100%;
+        padding: 0 !important
+    }
+    .dancestyle-gallery .stylegallery-text h5 {
+        margin-bottom: 1px;
+        font-size: 18px
+    }
+    .dancestyle-gallery .stylegallery-text h3 {
+        font-weight: 700;
+        font-size: 26px
+    }
+    .dancestyle-gallery .stylegallery-text.formtop img {
+        width: 60px
+    }
+    .dancestyle-gallery .stylegallery-text.formtop {
+        top: 22%
+    }
+    section.dancestyle-gallery {
+        padding: 35px 15px
+    }
+    .dancecourse-main>.container {
+        padding: 0 15px
+    }
+    .dancecourse-text h1 {
+        font-size: 36px;
+        font-weight: 700;
+        margin-bottom: 15px
+    }
+    .dancecourse-main {
+        padding: 35px 0
+    }
+    .dancecourse-text {
+        padding-bottom: 10px
+    }
+    .dancecourse-main .tabbtn {
+        font-size: 13px;
+        padding: 12px 10px
+    }
+    .dancecourse-main .dancetable-filter ul li:nth-child(1) {
+        display: block;
+        text-align: left;
+        margin-bottom: 5px
+    }
+    .dancecourse-main .dancetable-filter ul li {
+        display: inline-block;
+        margin: 0;
+        width: 32.2%
+    }
+    .dancecourse-main .dancetable-filter ul li .form-control {
+        width: 100%;
+        font-size: 14px
+    }
+    .dancecourse-main .dancefilter-droparrow {
+        display: none
+    }
+    .dancecourse-main .table-bg {
+        padding: 10px 10px 10px
+    }
+    .dancecourse-main .dancestyle-table>.container {
+        padding: 0
+    }
+    .dancecourse-main .dancetable-filter {
+        margin: 30px 0 25px
+    }
+    .dancecourse-main .dancestyle-table ul.nav {
+        margin-bottom: 35px
+    }
+    .dancecourse-main .table {
+        min-width: 940px !important;
+        max-width: 1098px
+    }
+    .dancecourse-main .tabledesign {
+        width: 100%;
+        overflow: hidden;
+        display: block;
+        overflow-x: scroll
+    }
+    .dancecourse-main .table-addcart a {
+        font-weight: 600;
+        font-size: 16px
+    }
+    .dancecourse-main .table-addcart {
+        padding-bottom: 35px !important
+    }
+    .artisticdire-main .container {
+        padding: 0 15px
+    }
+    .artisticdire-main .artist-left {
+        display: block;
+        width: 100%
+    }
+    .artisticdire-main .artist-left h1 {
+        font-size: 46px;
+        width: 100%;
+        margin-bottom: 10px
+    }
+    .artisticdire-main .artist-right {
+        display: block;
+        width: 100%
+    }
+    .artisticdire-main .artist-details {
+        padding: 25px 0
+    }
+    .artisticdire-main .artist-details p {
+        margin-bottom: 14px;
+        line-height: 26px;
+        font-size: 16px
+    }
+    .artisticdire-main {
+        padding: 40px 0 35px
+    }
+    .artisticdire-main .artist-left h5 {
+        font-size: 22px;
+        font-weight: 500
+    }
+    .artisticdire-main .artist-right img {
+        width: 100%
+    }
+    .samefaculty-main .container {
+        padding: 0 15px
+    }
+    .samefaculty-main .artist-name {
+        font-size: 30px;
+        padding-top: 0;
+        margin-left: 0
+    }
+    .samefaculty-main .artist-deta {
+        padding: 5px 0 30px
+    }
+    .samefaculty-main .artist-img img {
+        width: 100%
+    }
+    .samefaculty-main .samedaculty-tital {
+        font-size: 34px;
+        margin-bottom: 18px
+    }
+    .samefaculty-main {
+        padding: 25px 0 35px
+    }
+    .samefaculty-main.behind-scene .artist-post {
+        font-size: 22px;
+        line-height: 30px;
+        padding-top: 10px;
+        margin-left: 0;
+        padding-bottom: 10px
+    }
+    .samefaculty-main.behind-scene {
+        padding-bottom: 30px
+    }
+    .pdcp-main .container {
+        padding: 0 15px
+    }
+    .tdxonline-main .container {
+        padding: 0 15px
+    }
+    .tdxonline-main {
+        padding: 45px 0
+    }
+    .tdxonline-main .tdxonline-tital h1 {
+        font-size: 32px;
+        line-height: 40px;
+        margin-bottom: 12px
+    }
+    .tdxonline-main .mycourses-filter ul li:nth-child(1) {
+        display: block
+    }
+    .tdxonline-main .filterby-tital {
+        background: 0 0;
+        font-size: 26px;
+        padding: 8px 0
+    }
+    .tdxonline-main .mycourses-filter ul {
+        text-align: left
+    }
+    .tdxonline-main .filter-droparrow {
+        height: 70%;
+        width: 22px;
+        padding-top: 7px;
+        font-size: 16px;
+        top: 7px
+    }
+    .tdxonline-main .filter-drop .form-control {
+        font-size: 16px
+    }
+    .tdxonline-main .filter-drop {
+        width: auto
+    }
+    .tdxonline-main .mycourses-filter ul li {
+        margin: 0 0;
+        width: 49%
+    }
+    .tdxonline-main .session-topvideo img {
+        width: 100%
+    }
+    .tdxonline-main .online-details ul {
+        position: relative;
+        padding: 10px 0
+    }
+    .tdxonline-main .online-details ul li {
+        width: 49%
+    }
+    .tdxonline-main .online-pricebtn a {
+        padding: 4px 3px;
+        width: 148px;
+        margin: auto
+    }
+    .tdxonline-main .online-pricebtn p {
+        font-size: 20px;
+        margin-bottom: 6px;
+        margin-top: 14px
+    }
+    .tdxonline-main .online-details {
+        padding-top: 15px
+    }
+    .tdxonline-main .online-details p {
+        -webkit-line-clamp: 5;
+        max-width: 100%;
+        line-height: 16px
+    }
+    .tdxonline-main .online-pricebtn {
+        position: relative
+    }
+    .tdxonline-main .previewbtn {
+        top: 34%
+    }
+    .tdxonline-main .previewbtn span {
+        font-size: 16px
+    }
+    .tdxonline-main .mycorces-pagination ul {
+        margin: 0 15px
+    }
+    .tdxonline-main .mycorces-pagination ul li {
+        margin: 0 10px
+    }
+    .start-header .dropdown-menu::before {
+        display: none
+    }
+    .pdcp-main .pdcp-toptext {
+        padding-left: 0
+    }
+    .pdcp-main .pdcp-toptext h2 {
+        padding: 44px 0 20px
+    }
+    .pdcp-main .pdcp-toptext p {
+        text-align: justify
+    }
+    .pdcp-main .topgirl-pdcp {
+        padding-bottom: 30px
+    }
+    .pdcp-main .vision-phylosophy h3 {
+        padding: 30px 0 10px 0
+    }
+    .pdcp-main .vision-phylosophy {
+        padding: 5px 0 40px 0
+    }
+    .pdcp-main .pdcp-gallery h3 {
+        padding: 8px 0 20px 0
+    }
+    .pdcp-main .pdcp-gallery .col-md-3 {
+        padding: 0 15px !important
+    }
+    .pdcp-main img.pdcp-topgirlimg {
+        padding-top: 20px
+    }
+    .rad-main .container {
+        padding: 0 15px
+    }
+    .rad-main {
+        padding: 30px 0 60px 0
+    }
+    .rad-main .rad-toptext h2 {
+        margin-bottom: 20px
+    }
+    .rad-main .rad-toptext p {
+        margin-bottom: 20px
+    }
+    .rad-main .rad-toptext a.rad-topbtn {
+        font-size: 20px;
+        top: 14px
+    }
+    .rad-main .rad-topimg {
+        width: 90%;
+        margin: auto;
+        display: block
+    }
+    .rad-main .rad-gallery h2 {
+        padding: 20px 0 25px 0;
+        text-align: center
+    }
+    .rad-main .rad-gallery .col-md-3 {
+        padding: 0 15px !important
+    }
+    .dance-educa-main .container {
+        padding: 0 15px
+    }
+    .dance-educa-main .dance-educa-top {
+        padding: 35px 0 10px
+    }
+    .dance-educa-main .dance-educa-top h1 {
+        margin-bottom: 20px;
+        font-size: 34px;
+        line-height: initial
+    }
+    .dance-educa-main .dance-educa-top h3 {
+        margin: 25px 0 35px
+    }
+    .dance-educa-main .dance-educa-top p {
+        padding: 0;
+        margin-bottom: 24px
+    }
+    .dance-educa-main .education-video svg {
+        width: 60px !important;
+        height: 60px;
+        padding: 20px;
+        bottom: 30px
+    }
+    .dance-educa-main .education-video img {
+        width: 100%;
+        padding-bottom: 30px
+    }
+    .dance-educa-main .rad-name img {
+        width: 100%;
+        margin-bottom: 20px
+    }
+    .dance-educa-main .rad-name {
+        margin: 30px -10px 25px
+    }
+    .dance-educa-main .dance-leadership h2 {
+        font-size: 40px;
+        margin-bottom: 30px
+    }
+    .dance-educa-main .dance-leadership h2 span {
+        font-size: 26px
+    }
+    .dance-educa-main .dance-leadership ul li span {
+        padding-left: 30px;
+        font-size: 15px;
+        padding-top: 5px
+    }
+    .dance-educa-main .dance-leadership ul li {
+        padding-left: 28px;
+        color: #dbb39a;
+        font-size: 22px
+    }
+    .dance-educa-main .topdance-comet {
+        width: 90%;
+        padding: 40px 15px;
+        margin-bottom: 70px
+    }
+    .dance-educa-main .topdance-comet span {
+        left: -40px;
+        top: -40px;
+        padding: 24px 0
+    }
+    .dance-educa-main .topdance-comet span img {
+        width: 50%;
+        margin: auto;
+        display: block
+    }
+    .dance-educa-main .topdance-comet h3 {
+        font-size: 28px;
+        text-align: center
+    }
+    .dance-educa-main .topdance-comet h2 {
+        font-size: 32px;
+        text-align: right
+    }
+    .dance-educa-main .topdance-comet span:last-child {
+        right: -50px;
+        top: unset;
+        bottom: -40px
+    }
+    .dance-educa-main .prodance h2 {
+        font-size: 50px;
+        margin-bottom: 30px;
+        text-transform: capitalize
+    }
+    .dance-educa-main .prodance h2 span {
+        font-size: 26px;
+        text-transform: uppercase
+    }
+    .dance-educa-main .prodance p {
+        line-height: 26px;
+        margin-bottom: 18px
+    }
+    .dance-educa-main .profe-dance {
+        padding: 20px 0 90px;
+        background-size: 100%
+    }
+    .upcoming-workmain .container {
+        padding: 0 15px
+    }
+    .upcoming-workmain .forwork-with {
+        padding: 0 0;
+        margin-bottom: 60px
+    }
+    .pastwork-tital {
+        font-size: 30px
+    }
+    .sele-city select.form-control {
+        width: 100%;
+        margin-top: 15px
+    }
+    .upcoming-workmain .pastwork-boxmain {
+        padding: 18px 15px 20px;
+        width: 100%;
+        margin-top: 40px;
+        margin-bottom: 40px
+    }
+    .pastwork-leftimg {
+        display: block;
+        width: 100%;
+        margin-bottom: 20px
+    }
+    .pastwork-details {
+        display: block;
+        width: 100%
+    }
+    .pastwork-leftimg img {
+        width: 100%;
+        margin-top: 0
+    }
+    .upcoming-workmain .pastwork-details h3 {
+        font-size: 20px;
+        margin-bottom: 20px
+    }
+    .pastwork-datetime .date {
+        float: unset;
+        width: 100%;
+        padding-top: 0;
+        padding-bottom: 4px
+    }
+    .pastwork-datetime .time {
+        padding-bottom: 20px
+    }
+    .pastwork-datetime p {
+        letter-spacing: 0
+    }
+    .upcoming-workmain .upworkshop-btn a {
+        padding: 7px 15px;
+        font-size: 20px;
+        width: 155px
+    }
+    .upcoming-workmain {
+        padding: 50px 0 20px
+    }
+    .pastworkshop-main .container {
+        padding: 0 15px
+    }
+    .pastworkshop-main .row.forwork-with {
+        padding: 0 0;
+        margin-bottom: 50px
+    }
+    .pastwork-boxmain {
+        width: 100%;
+        padding: 18px 15px 18px;
+        margin-top: 40px;
+        margin-bottom: 40px
+    }
+    .pastworkshop-main {
+        padding: 40px 0 50px
+    }
+    .mediaevent-main {
+        background-position: top left;
+        padding: 30px 0 30px
+    }
+    .mediaevent-main .container {
+        padding: 0 15px
+    }
+    .topevent-text h1 {
+        font-size: 36px;
+        margin-bottom: 20px
+    }
+    .media-rightdetails {
+        padding-left: 0
+    }
+    .media-rightdetails .rightdetail-tital {
+        font-size: 26px;
+        margin-bottom: 14px;
+        margin-top: 10px
+    }
+    .media-rightdetails p {
+        margin-bottom: 10px
+    }
+    .filmography-main .container {
+        padding: 0 15px
+    }
+    .filmography-main .filmography-detail {
+        padding-top: 0
+    }
+    .filmography-main .filmography-detail h1 {
+        font-size: 36px;
+        margin-bottom: 15px
+    }
+    section.filmography-main .col-md-5 img {
+        display: none
+    }
+    .filmography-main .filmography-years {
+        margin-top: 0
+    }
+    .filmography-main .filmography-years ul li {
+        padding-left: 0
+    }
+    .filmography-main .filmography-years ul li .years-box img {
+        width: 100%
+    }
+    .filmography-main .filmography-years ul li::before {
+        display: none
+    }
+    .filmography-main .filmography-years {
+        margin-top: 50px
+    }
+    .filmography-main .filmography-years ul li .years-box h4::before {
+        left: 0
+    }
+    .filmography-main .filmography-years ul li .years-box h4 span {
+        margin-left: 20px
+    }
+    .filmography-main {
+        padding: 30px 0 60px
+    }
+    .press-main .container {
+        padding: 0 15px
+    }
+    .press-detail {
+        padding-top: 15px
+    }
+    .press-detail h1 {
+        font-size: 36px;
+        margin-bottom: 20px
+    }
+    .press-detail p {
+        line-height: 23px
+    }
+    .press-printsec {
+        padding: 40px 0 0 0
+    }
+    img.pres-fwith {
+        width: 60%;
+        margin-right: auto
+    }
+    .press-topimg {
+        background-size: cover;
+        margin-bottom: -230px
+    }
+    .press-digitalsec {
+        background-color: #110b29;
+        margin-top: 0;
+        padding-top: 70px
+    }
+    .events-main .container {
+        padding: 0 15px
+    }
+    .eventstop-info::after {
+        display: none
+    }
+    .eventstop-text {
+        width: 100%;
+        padding: 15px 15px 5px;
+        margin: 0 0
+    }
+    .events-topshops {
+        padding: 45px 0 70px;
+        background-size: cover
+    }
+    .eventstop-text h2 {
+        font-size: 32px;
+        margin-bottom: 10px
+    }
+    .bookbox {
+        padding: 15px;
+        background: linear-gradient(180deg, #fff 24%, #1f2229 24%);
+        margin-bottom: 40px
+    }
+    .event-bookimg img {
+        margin-bottom: 24px
+    }
+    .eventbook-btn {
+        position: relative;
+        padding-top: 38px
+    }
+    .eventbook-btn a {
+        font-size: 20px;
+        width: 70%;
+        margin: auto
+    }
+    .eventbook-detail h4 {
+        -webkit-line-clamp: 2;
+        margin-bottom: 15px
+    }
+    .eventbook-detail p {
+        line-height: initial;
+        font-size: 16px
+    }
+    .theatre-main {
+        padding: 40px 0 50px;
+        background-size: cover
+    }
+    .theatre-main .container {
+        padding: 0 15px
+    }
+    .theatre-main h1 {
+        font-size: 34px;
+        margin-bottom: 15px
+    }
+    .theatre-main h3 {
+        margin: 40px 0 15px
+    }
+    .theatre-main ul li {
+        margin-bottom: 20px;
+        font-size: 16px;
+        line-height: 24px;
+        padding-left: 30px
+    }
+    .contact-main .container {
+        padding: 0 15px
+    }
+    .contact-main .contact-tital {
+        padding: 30px 0 0;
+        font-size: 36px;
+        max-width: 260px;
+        margin: auto
+    }
+    .contact-form {
+        margin-top: 50px;
+        height: auto
+    }
+    .contactleft-form {
+        padding: 0 15px
+    }
+    .contact-address {
+        padding: 20px 15px;
+        width: 90%;
+        margin: auto;
+        margin-top: 40px
+    }
+    .contact-main {
+        background-size: cover;
+        padding-bottom: 30px
+    }
+    .contact-folloimg {
+        width: auto;
+        display: flex;
+        justify-content: space-evenly
+    }
+    .contact-folloimg a img {
+        padding-left: 0;
+        margin: 40px auto 20px
+    }
+    .contact-address .address-box p {
+        margin-bottom: 5px
+    }
+    .aboutus-main .container {
+        padding: 0 15px
+    }
+    .aboutus-main .aboutus-left {
+        display: block;
+        width: 100%
+    }
+    .aboutus-main .aboutus-right {
+        display: block;
+        width: 100%
+    }
+    .aboutus-main .aboutus-left .abouttital {
+        font-size: 38px;
+        margin-bottom: 15px;
+        line-height: initial;
+        margin-top: 30px
+    }
+    .aboutus-main .aboutus-left p {
+        margin-bottom: 16px
+    }
+    .aboutus-main {
+        padding: 1px 0 30px 0;
+        background-size: cover
+    }
+    .aboutus-main .aboutus-right.about-1img img {
+        left: 0;
+        width: 100%
+    }
+    .aboutus-main .aboutus-right.about-2img img {
+        width: 100%;
+        left: 0;
+        margin-top: 60px
+    }
+    .aboutus-main .aboutus-detail.martop {
+        margin-top: 10px
+    }
+    .aboutus-main .aboutus-right.about-3img img {
+        left: 0;
+        top: 0;
+        width: 100%
+    }
+    .login-main .container {
+        padding: 0 15px
+    }
+    .login-box {
+        width: 90%;
+        margin-right: auto
+    }
+    .login-main {
+        background-position: right;
+        padding-top: 40px
+    }
+    .myprofile-main .container {
+        padding: 0 15px
+    }
+    .profile-form {
+        width: 90%
+    }
+    .leftupload {
+        width: 48%
+    }
+    .myprofile-main {
+        background-position: -270px top;
+        padding: 40px 0
+    }
+    .profile-form .form-control option {
+        background: #fff;
+        color: #000
+    }
+    .password-main .container {
+        padding: 0 15px
+    }
+    .password-box label {
+        padding-top: 6px;
+        font-size: 14px
+    }
+    .password-box {
+        width: 100%
+    }
+    .mycourses-main .container {
+        padding: 0 15px
+    }
+    .mycourses-main .mycourses-filter ul {
+        text-align: left
+    }
+    .mycourses-main .mycourses-filter ul li:nth-child(1) {
+        display: block
+    }
+    .mycourses-main .filterby-tital {
+        padding: 8px 0;
+        background: 0 0
+    }
+    .mycourses-main .mycourses-filter ul li {
+        margin: 0;
+        width: 49%
+    }
+    .mycourses-main .filter-drop {
+        width: 100%
+    }
+    .mycourses-main .filter-droparrow {
+        height: 60%;
+        width: 22px;
+        padding-top: 1px;
+        font-size: 18px;
+        top: 11px
+    }
+    .mycourses-main .filter-drop .form-control {
+        font-size: 18px
+    }
+    .mycourses-main .filter-drop option {
+        background: #fff;
+        color: #000
+    }
+    .mycourses-filter {
+        margin-bottom: 30px
+    }
+    .mycourses-main .session-topvideo img {
+        width: 100%
+    }
+    .mycourses-main .session-topdetails {
+        width: 100%
+    }
+    .mycourses-main .session-topdetails h6 {
+        margin-bottom: 0;
+        margin-top: 10px
+    }
+    .mycourses-main .session-topdetails hr {
+        margin: 20px 0
+    }
+    .mycourses-main .session-topdetails ul li {
+        width: 100%
+    }
+    .mycourses-main .session-topdetails ul {
+        margin-bottom: 20px
+    }
+    .mycourses-main .mycorces-pagination ul {
+        margin: 0 10px
+    }
+    .mycourses-main .mycorces-pagination ul li {
+        margin: 0 10px
+    }
+    .mycourses-main {
+        padding: 40px 0
+    }
+    .mywallet-main .container {
+        padding: 0 15px
+    }
+    .mywallet-main .mywallet-topsec {
+        width: 100%;
+        margin-bottom: 50px
+    }
+    .mywallet-main .mywallet-tital {
+        margin-bottom: 0
+    }
+    .mywallet-main .avilable-bal {
+        text-align: left;
+        margin-bottom: 25px
+    }
+    .mywallet-main .wallet-item a {
+        margin-bottom: 15px
+    }
+    .mywallet-main .recent-activity {
+        width: 100%;
+        margin-bottom: 25px
+    }
+    .idcard-main .container {
+        padding: 0 15px
+    }
+    .logo-barcode {
+        bottom: 6px
+    }
+    .logo-barcode img:first-child {
+        width: 170px
+    }
+    .id-box {
+        width: 330px;
+        padding: 10px;
+        background-size: 100%;
+        min-height: 496px
+    }
+    .id-box>img {
+        width: 90px
+    }
+    .idcard-main {
+        min-height: auto;
+        padding: 40px 0
+    }
+    .mycart-main .container {
+        padding: 0 15px
+    }
+    .mycart-main .tabledesign {
+        width: 100%;
+        overflow: hidden;
+        display: block;
+        overflow-x: scroll
+    }
+    .mycart-main .table-bg {
+        padding: 20px 10px 10px
+    }
+    .mycart-topbanner h1 {
+        padding-top: 65px;
+        text-align: center;
+        font-size: 53px
+    }
+    .signup-main .container {
+        padding: 0 15px
+    }
+    .signup-main {
+        padding-top: 40px;
+        background-position: right top
+    }
+    .login-box option {
+        background: #fff;
+        color: #000
+    }
+    .viewsession-main .container {
+        padding: 0 15px
+    }
+    .viewsession-main .session-topvideo img {
+        width: 100%
+    }
+    .viewsession-main .session-topvideo svg {
+        width: 55px !important;
+        height: 55px;
+        padding: 18px
+    }
+    .viewsession-main .session-topdetails {
+        width: 100%
+    }
+    .viewsession-main .session-topdetails h6 {
+        margin-top: 15px
+    }
+    .viewsession-main .session-topdetails ul li {
+        width: 100%
+    }
+    .viewsession-main .session-topdetails ul {
+        margin-bottom: 20px
+    }
+    .viewsession-main .session-box a img {
+        width: 100%
+    }
+    .viewsession-main .session-box h5 {
+        margin-top: 10px
+    }
+    .viewsession-main .session-box {
+        margin-bottom: 30px
+    }
+    .checkout-main .container {
+        padding: 0 15px !important
+    }
+    .checkout-main .tabledesign {
+        width: 100%;
+        overflow: hidden;
+        display: block;
+        overflow-x: scroll
+    }
+    .check-topban h1 {
+        font-size: 48px;
+        padding-top: 70px;
+        text-align: center
+    }
+    .checkout-table {
+        padding: 50px 0 50px
+    }
+    .checkout-main .table-bg {
+        padding: 20px 10px 10px
+    }
+    .checkout-main .checkout-cartfees h5 {
+        width: 60%
+    }
+    .dance-educa-main .program-offer {
+        font-size: 30px;
+        text-align: center;
+        line-height: 52px
+    }
+    .dance-educa-main .dance-educa-top h3 {
+        font-size: 34px
+    }
+    .dance-educa-main .dance-leadership {
+        background-position: -1086px center
+    }
+    .prodance img {
+        width: 100%
+    }
+    .dance-educa-main .annu-concept h3 {
+        font-size: 40px
+    }
+    .dance-educa-main .annu-concept {
+        padding: 70px 0 20px
+    }
+    .dance-educa-main .die-shopimg h2 {
+        font-size: 38px;
+        margin-top: 30px
+    }
+    .dance-educa-main .die-shopimg h2 span {
+        font-size: 24px
+    }
+    .dance-educa-main .die-shopimg img {
+        width: 100%;
+        margin-bottom: 60px
+    }
+    .dance-educa-main .die-workshop-btn {
+        margin-top: 40px
+    }
+    .event-compny img {
+        margin-bottom: 25px;
+        width: 100%
+    }
+    .event-state h6 {
+        margin-bottom: 20px
+    }
+    .contact-address .address-box h3 {
+        font-size: 22px
+    }
+    .press-socialsec {
+        padding: 30px 0 70px
+    }
+    .press-socialsec h3 {
+        font-size: 28px;
+        width: 340px
+    }
+    .topbannerslider.mobileview {
+        display: block
+    }
+    .topbannerslider.desktopview {
+        display: none
+    }
+    .aboutus-detail.part2 .desktopview {
+        display: none
+    }
+    .aboutus-detail.part2 .mobileview {
+        display: block
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+    .topnav {
+        padding-bottom: 94px;
+        position: relative;
+        margin: 0
+    }
+    .topnev-left {
+        width: 100%
+    }
+    .topnev-left ul {
+        height: 63px
+    }
+    .topnev-left ul li:nth-child(1) {
+        width: 40%
+    }
+    .topnev-left ul li:nth-child(2) {
+        text-align: right;
+        width: 58%
+    }
+    .topnev-left ul li {
+        position: relative;
+        z-index: 99;
+        margin: 0
+    }
+    .topnev-right {
+        text-align: right;
+        width: 100%;
+        position: absolute;
+        top: 32px;
+        right: 17px
+    }
+    .navigation-wrap {
+        top: 65px !important
+    }
+    .navigation-wrap.start-header.scroll-on {
+        top: 0 !important
+    }
+    .start-header .navbar-expand-md .navbar-nav .dropdown-menu {
+        position: relative;
+        width: auto;
+        padding: 0 30px 0 !important
+    }
+    .start-header .head-dropmen .dropiteams ul {
+        padding: 15px 0 11px
+    }
+    .start-header .head-dropmen .dropiteams ul li {
+        width: 100%;
+        margin: 0
+    }
+    .start-header .head-dropmen .dropiteams ul li a img {
+        display: none
+    }
+    .start-header .head-dropmen .dropiteams ul li p {
+        font-size: 16px;
+        margin-top: 0;
+        height: auto;
+        overflow: hidden;
+        -webkit-line-clamp: 1;
+        -webkit-box-orient: vertical;
+        margin-bottom: 5px
+    }
+    .start-header .navbar-expand-md .navbar-nav .dropdown-menu.smallmiddle {
+        position: relative;
+        top: unset;
+        min-width: auto;
+        width: auto;
+        left: auto
+    }
+    .navbar-light .navbar-nav .nav-item>.nav-link {
+        font-size: 16px
+    }
+    .start-header .dropdown-menu::before {
+        display: none
+    }
+    .hometopslider {
+        background-size: 100% 100%;
+        height: 330px
+    }
+    .month-eventmain .event-tital {
+        font-size: 30px;
+        line-height: 38px;
+        margin-bottom: 3px;
+        margin-top: 5px;
+        letter-spacing: -.2px
+    }
+    .weteach-main .weteach-tital {
+        font-size: 195px;
+        line-height: 34px;
+        width: auto
+    }
+    .number-counter .number-tital {
+        font-size: 50px;
+        line-height: 50px;
+        width: 100%
+    }
+    .number-counter .number-righttext ul li p {
+        font-size: 23px
+    }
+    .testimonials-main .testimonial-tital {
+        color: #fff;
+        font-size: 38px
+    }
+    .testimonials-main .container {
+        padding: 0 0
+    }
+    .socialmedia-main .socialmedia-tital h3 {
+        font-size: 38px
+    }
+    .subcribe-main .btn.btn-primary {
+        width: 92%;
+        font-size: 18px;
+        height: 60px
+    }
+    .subcribe-main p {
+        font-size: 20px;
+        text-align: left;
+        padding-top: 10px;
+        padding-left: 18px
+    }
+    .foot-followers {
+        margin-top: 20px
+    }
+    .foot-followers .col-md-3 {
+        max-width: 50%;
+        flex: 0 0 50%
+    }
+    .terms-condi {
+        width: 100%;
+        text-align: center
+    }
+    .aboutus-main .aboutus-left .abouttital {
+        font-size: 38px;
+        line-height: normal
+    }
+    .aboutus-main .aboutus-left {
+        padding-right: 0
+    }
+    .aboutus-main .container {
+        padding: 0 25px
+    }
+    .contact-form .col-md-2,
+    .contact-form .col-md-5 {
+        max-width: 100%;
+        flex: 0 0 100%
+    }
+    .contact-form {
+        height: auto;
+        margin-top: 0
+    }
+    .contact-address {
+        background: #262626;
+        padding: 30px 40px;
+        margin-top: 21px;
+        margin-left: 40px;
+        margin-right: 40px
+    }
+    .contact-main {
+        min-height: auto;
+        background-size: cover;
+        padding-bottom: 40px
+    }
+    .contactleft-form {
+        padding: 0 40px
+    }
+    .contact-folloimg {
+        width: auto;
+        margin: auto;
+        text-align: center
+    }
+    .contact-folloimg a {
+        display: inline-block;
+        margin: 0 10px
+    }
+    .career-main .dance-career h2 {
+        font-size: 50px
+    }
+    .career-main .corporate-career h2 {
+        font-size: 50px
+    }
+    .artisticdire-main .artist-left h1 {
+        font-size: 70px
+    }
+    .samefaculty-main .samedaculty-tital {
+        font-size: 44px
+    }
+    .samefaculty-main .artist-name {
+        padding-top: 35px
+    }
+    .dancestyle-main .table-bg {
+        padding: 10px 7px 35px
+    }
+    .dancestyle-gallery .stylegallery-text.formtop {
+        top: 10%
+    }
+    .rad-main .container {
+        padding: 0 0
+    }
+    .pdcp-main .container {
+        padding: 0 0
+    }
+    .samefaculty-main .container {
+        padding: 0 25px
+    }
+    .samefaculty-main .container {
+        padding: 0 25px
+    }
+    .samefaculty-main .container {
+        padding: 0 25px
+    }
+    .artisticdire-main .container {
+        padding: 0 25px
+    }
+    .contact-main .container {
+        padding: 0 25px
+    }
+    section.dancestyle-main .container {
+        padding: 0 25px
+    }
+    .dancestyle-main .table-bg {
+        padding: 10px 7px 35px;
+        overflow: scroll
+    }
+    .dancestyle-main .tabledesign {
+        border: unset
+    }
+    .dancestyle-main .dancestyle-table ul.nav {
+        margin-top: 20px
+    }
+    .dancestyle-main .dancestyle-left {
+        display: inline-block;
+        width: 100%;
+        vertical-align: middle
+    }
+    .dancestyle-gallery .stylegallery-text h3 {
+        font-size: 33px
+    }
+    .dancestyle-gallery .stylegallery-text.formtop img {
+        max-width: 80px
+    }
+    .dancestyle-gallery .stylegallery-text {
+        top: 10%
+    }
+    .personaltrai-main form {
+        width: 100%
+    }
+    .tdxonline-main .container {
+        padding: 0 25px
+    }
+    .dance-educa-main .container {
+        padding: 0 25px
+    }
+    .dance-educa-main .education-video img {
+        width: 100%;
+        margin-bottom: 25px
+    }
+    .dance-educa-main .education-video svg {
+        width: 75px !important;
+        height: 75px
+    }
+    .dance-educa-main .dance-leadership h2 {
+        font-size: 40px
+    }
+    .dance-educa-main .dance-leadership ul li {
+        font-size: 20px
+    }
+    .dance-educa-main .royaldance .col-md-6 {
+        flex: 0 0 100%;
+        max-width: 100%
+    }
+    .dance-educa-main .prodance .col-md-6 {
+        max-width: 100%;
+        flex: 0 0 100%
+    }
+    .dance-educa-main .annu-concept .col-md-6 {
+        max-width: 100%;
+        flex: 0 0 100%
+    }
+    .dance-educa-main .die-workshop .col-md-5,
+    .dance-educa-main .die-workshop .col-md-7 {
+        max-width: 100%;
+        flex: 0 0 100%
+    }
+    .dance-educa-main .die-workshop .dieshop-poster {
+        margin-top: 50px
+    }
+    .upcoming-workmain .container {
+        padding: 0 25px
+    }
+    .pastwork-boxmain {
+        width: 100%
+    }
+    .pastwork-leftimg {
+        width: 100%
+    }
+    .pastwork-details {
+        width: 100%;
+        margin-top: 25px
+    }
+    .event-compny img {
+        max-width: 100%
+    }
+    .filmography-main .filmography-detail h1 {
+        font-size: 45px
+    }
+    .filmography-main .col-md-5,
+    .filmography-main .col-md-7 {
+        max-width: 100%;
+        flex: 0 0 100%
+    }
+    .press-main .container {
+        padding: 0 25px
+    }
+    .press-digitalsec .col-md-3,
+    .press-printsec .col-md-3,
+    .press-socialsec .col-md-3 {
+        max-width: 50%;
+        flex: 0 0 50%
+    }
+    .press-socialsec {
+        margin-top: -91px
+    }
+    .theatre-main {
+        background-size: cover
+    }
+    .start-header .navbar-expand-md .navbar-nav .dropdown-menu.mypro-dropdown {
+        position: relative
+    }
+    .start-header .navbar-expand-md .navbar-nav .dropdown-menu.inner-togal {
+        position: relative;
+        margin: unset;
+        margin-left: 33px
+    }
+    .mycourses-main .col-md-3 {
+        max-width: 100%;
+        flex: 0 0 100%
+    }
+    .mycourses-main .col-md-9 {
+        max-width: 100%;
+        flex: 0 0 100%
+    }
+    .mycourses-main .mycourses-filter ul {
+        text-align: left
+    }
+    .mycourses-main .filterby-tital {
+        font-size: 20px
+    }
+    .mycourses-main .filter-drop .form-control {
+        font-size: 20px
+    }
+    .mycourses-main .container {
+        padding: 0 25px
+    }
+    .mycourses-main .filter-drop {
+        width: 195px
+    }
+    .mycourses-main .mycourses-box .col-md-4 {
+        max-width: 100%;
+        flex: 0 0 100%
+    }
+    .mycourses-main .mycourses-box .col-md-6 {
+        max-width: 75%;
+        flex: 0 0 75%;
+        margin-top: 20px
+    }
+    .mycourses-main .mycourses-box .col-md-2 {
+        max-width: 25%;
+        flex: 0 0 25%;
+        margin-top: -35%
+    }
+    .mywallet-main .container {
+        padding: 0 25px
+    }
+    .mywallet-main .mywallet-topsec {
+        width: 100%
+    }
+    .mywallet-main .recent-activity {
+        width: 100%
+    }
+}
+
+@media(max-width:1024px) {
+    .home-info-text {
+        padding: 0 40px !important;
+    }
+}
+
+@media only screen and (min-width:1040px) {
+    .pdcp-main.academy-main .container {
+        width: 75%;
+    }
+    .pdcp-main.academy-main .topgirl-pdcp {
+        min-height: 700px;
+    }
+    .pdcp-main.academy-main {
+        background-position: 0 -60% !important;
+    }
+    .academy-main .second-pdcp .pdcp-toptext {
+        padding-right: 70px;
+    }
+    .academy-main .second-pdcp .about-content {
+        padding-left: 70px !important;
+        padding-right: 0px !important;
+    }
+}
+
+@media only screen and (max-width:767px) {
+    .wsregisterform .label {
+        padding-left: 0px;
+    }
+    .start-header .head-dropmen .dropiteams ul li.cptp_menu p {
+        height: auto;
+        -webkit-line-clamp: 5;
+        line-height: 1.3;
+    }
+    .webinar_header .navbar h2 {
+        font-size: 22px !important;
+        font-weight: bold;
+        margin-bottom: 0;
+    }
+    .webinar_header .navbar {
+        width: 100%;
+    }
+    .webinar_header .navbar p {
+        font-size: 14px;
+        line-height: 1.3;
+    }
+    .banner-interaction {
+        margin-top: 109px;
+    }
+    .webinar_header .single-nav.navigation-wrap.start-header.start-style {
+        padding-bottom: 5px;
+    }
+}
